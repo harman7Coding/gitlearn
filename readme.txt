@@ -6,3 +6,4 @@ Git push local modifies.
 Creating a new branch is quick AND simple.
 Git can merge branches.
 Come from branch
+Modified at 1930.
